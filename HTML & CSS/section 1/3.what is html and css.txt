@@ -1,0 +1,14 @@
+Q) What is HTML?
+- Hyper Text Markup Language
+- not a programming language(donot have any kind of logics involved, not making it work on itself)
+- its extremely important and one of the most important base for web dev
+- hyper text => text containing links that direct to other pages
+- markup - containing set of tags/elements to define structure of web page
+
+
+Q) What is CSS?
+- Casscading Style Sheet
+- It is used to style HTML
+
+HTML - to display content and structure the content
+CSS  - to add style to the page

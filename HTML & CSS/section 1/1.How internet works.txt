@@ -1,0 +1,12 @@
+Q) What is internet?
+- Internet is nothing but a global network of computers 
+- The huge amount of data like websites, videos etc are stored inside some server(a computer working 24hrs) and this data is transmitted through optical fibres 
+
+
+Q) But we dont have any direct connection to that stored computer device through any cable?then how we get data?
+- Before that we should know something called as IP address
+- Q) what is IP address?It is unique string of numbers that identifies a device(computer/alexa/router/mobile) connected to internet
+- for ex: the server storing youtube website will have some IP address. 
+- We can access youtube by that IP address, but as it is difficult to remember so many ip addresses we use domain names that corresponds to IP addresses
+
+=>computers talk to each other and thats how we access data.
